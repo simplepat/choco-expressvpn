@@ -4,7 +4,7 @@
     <id>expressvpn</id>
     <version>6.8.5.5936</version>
     <packageSourceUrl>https://github.com/simplepat/choco-expressvpn</packageSourceUrl>
-    <owners>P. Marshall (@simplepat)</owners>
+    <owners>Elderry, P. Marshall (@simplepat)</owners>
     <title>ExpressVPN</title>
     <authors>ExpressVPN</authors>
     <projectUrl>https://www.expressvpn.com</projectUrl>
