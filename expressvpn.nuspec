@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>expressvpn</id>
-    <version>6.8.5.5936</version>
+    <version>6.8.6.6583</version>
     <packageSourceUrl>https://github.com/simplepat/choco-expressvpn</packageSourceUrl>
     <owners>Elderry, P. Marshall (@simplepat)</owners>
     <title>ExpressVPN</title>
@@ -10,7 +10,7 @@
     <projectUrl>https://www.expressvpn.com</projectUrl>
     <iconUrl>https://cdn.rawgit.com/Elderry/chocolatey-packages/master/icons/expressvpn.png</iconUrl>
     <copyright>© 2019 ExpressVPN</copyright>
-    <licenseUrl>https://www.expressvpn.com/order</licenseUrl>
+    <licenseUrl>https://www.expressvpn.com/tos</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://www.expressvpn.com/support/vpn-setup/</docsUrl>
     <tags>trial vpn service client admin</tags>
