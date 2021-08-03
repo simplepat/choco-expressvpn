@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://download.expressvpn.xyz/clients/windows/expressvpn_7.8.7.7.exe'
+$url        = 'https://www.expressvpn.works/clients/windows/expressvpn_windows_10.4.1.2_release.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'exe'
   url           = $url
   softwareName  = 'ExpressVPN*'
-  checksum      = 'd3de509135c6a87ed61a3b43bb260e33'
+  checksum      = 'E0659494C5B27F2BEF8C91EED5B8D34E'
   checksumType  = 'md5'
   silentArgs   = '/S'
 }
